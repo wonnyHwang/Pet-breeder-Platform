@@ -27,6 +27,7 @@
 
 ## 앱 구성 예상 화면 (Figma)
 * 스마트폰 UI/UX
+
 ![image](https://github.com/user-attachments/assets/12666f55-358a-41ab-a450-b6e853f11139)
 
 
